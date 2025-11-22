@@ -47,17 +47,17 @@ Výstupy projektu budou prezentovány na odborné konferenci zaměřené na živ
 
 ### 2. Kupní síla pro mléko a chléb / Purchasing power for milk and bread
 **Zjištění:**
-Chléb 2006: 20 677,04 / 16,12 = 1 282 kg
-Chléb 2018: 32 485,09 / 24,24 = 1 340 kg (+58 kg, +4,5 %)
-Mléko 2006: 20 677,04 / 14,44 = 1 432 litrů
-Mléko 2018: 32 485,09 / 19,82 = 1 639 litrů (+207 litrů, +14,5 %)
+- Chléb 2006: 20 677,04 / 16,12 = 1 282 kg
+- Chléb 2018: 32 485,09 / 24,24 = 1 340 kg (+58 kg, +4,5 %)
+- Mléko 2006: 20 677,04 / 14,44 = 1 432 litrů
+- Mléko 2018: 32 485,09 / 19,82 = 1 639 litrů (+207 litrů, +14,5 %)
 
 Analýza kupní síly ukazuje výrazné zlepšení v oblasti základních potravin mezi lety 2006 a 2018, kdy průměrné mzdy umožňují nákup 1 340 kg chleba ve srovnání s předchozími 1 282 kg, což představuje nárůst o 4,5 %. Ještě výraznější je, že kupní síla mléka se podstatně zvýšila z 1 432 na 1 639 litrů, což odráží zlepšení cenové dostupnosti o 14,5 %. To ukazuje, že růst mezd trvale převyšoval inflaci cen potravin, přičemž mléko se v tomto období stalo relativně dostupnějším než chléb.
 
-*Bread 2006: 20,677.04 / 16.12 = 1,282 kg*
-*Bread 2018: 32,485.09 / 24.24 = 1,340 kg (+58 kg, +4.5%)*
-*Milk 2006: 20,677.04 / 14.44 = 1,432 liters*
-*Milk 2018: 32,485.09 / 19.82 = 1,639 liters (+207 liters, +14.5%)*
+- *Bread 2006: 20,677.04 / 16.12 = 1,282 kg*
+- *Bread 2018: 32,485.09 / 24.24 = 1,340 kg (+58 kg, +4.5%)*
+- *Milk 2006: 20,677.04 / 14.44 = 1,432 liters*
+- *Milk 2018: 32,485.09 / 19.82 = 1,639 liters (+207 liters, +14.5%)*
 
 *Purchasing power analysis shows significant improvements for basic food items between 2006-2018, with average wages enabling the purchase of 1,340 kg of bread compared to 1,282 kg previously, representing a 4.5% increase. More notably, milk purchasing power grew substantially from 1,432 to 1,639 liters, reflecting a 14.5% improvement in affordability. This demonstrates that wage growth consistently outpaced food price inflation, with milk becoming relatively more affordable than bread over this period.*
 
@@ -79,14 +79,14 @@ Analýza kupní síly ukazuje výrazné zlepšení v oblasti základních potrav
 
 ## Struktura projektu / Project Structure
 
- create_tables.sql             # Vytvoření primární a sekundární tabulky / Main table and secondary table generation.
- q1_wage_trends.sql            # Analýza vývoje mezd v odvětvích / Wage trends analysis.
- q2_purchasing_power.sql       # Kupní síla pro mléko a chléb / Purchasing power analysis.
- q3_slowest_food_growth.sql    # Nejpomaleji zdražující potraviny / Slowest-growing food categories.
- q4_price_wage_gap.sql         # Rozdíly v růstu cen a mezd / Gap in wages and price.
- q5_gdp_impact.sql             # Vliv HDP na mzdy a ceny / GDP impact on wages and price.
- README.md                     # Dokumentace projektu / Project documentation.
- data_quality_notes.md         # Informace o kvalitě dat / Data quality information.
+- create_tables.sql             # Vytvoření primární a sekundární tabulky / Main table and secondary table generation.
+- q1_wage_trends.sql            # Analýza vývoje mezd v odvětvích / Wage trends analysis.
+- q2_purchasing_power.sql       # Kupní síla pro mléko a chléb / Purchasing power analysis.
+- q3_slowest_food_growth.sql    # Nejpomaleji zdražující potraviny / Slowest-growing food categories.
+- q4_price_wage_gap.sql         # Rozdíly v růstu cen a mezd / Gap in wages and price.
+- q5_gdp_impact.sql             # Vliv HDP na mzdy a ceny / GDP impact on wages and price.
+- README.md                     # Dokumentace projektu / Project documentation.
+- data_quality_notes.md         # Informace o kvalitě dat / Data quality information.
 
 ## Použité datové sady / Used Datasets
 
@@ -97,4 +97,5 @@ Data pocházejí z Portálu otevřených dat ČR a mezinárodních ekonomických
 ---
 
 *Projekt připraven pro tiskové oddělení a prezentaci na odborné konferenci.*  
+
 *Project prepared for press department and presentation at professional conference.*
